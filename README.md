@@ -1,7 +1,7 @@
 # Facial_Keypoint_detection
 Facial keypoint detection using the deep learning approach
 
-**- Readme_keypoint_detection_document.pdf is provided for detailed analysis **
+- **Readme_keypoint_detection_document.pdf is provided for detailed analysis**
 
 Objective: The objective is to detect facial keypoint positions on face images from the given facial dataset. 
 
